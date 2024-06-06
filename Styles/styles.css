@@ -10,6 +10,7 @@ body{
     justify-content: center;
     line-height: 55px;
     background-color: #F2F2F2;
+    padding-top: 20px;
 }
 .title-container h1{
     color: #C262AF;
